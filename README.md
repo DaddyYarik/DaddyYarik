@@ -51,9 +51,18 @@
   <a href="https://github.com/DaddyYarik/HackerPanel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyYarik&repo=HackerPanel&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=39FF7A&text_color=C9D1D9" alt="HackerPanel">
   </a>
+  <a href="https://github.com/DaddyYarik/cipherbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyYarik&repo=cipherbot&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=39FF7A&text_color=C9D1D9" alt="CipherBot">
+  </a>
 </p>
 
-> 🧩 **gitvibe** — your Git history, *Wrapped*-style · 👻 **PhantomBreach** — Hollywood-style hacking prank · 🟢 **HackerPanel** — cyberpunk joke panel
+<p align="center">
+  <a href="https://t.me/Toolkitpy_bot">
+    <img src="https://img.shields.io/badge/Try_CipherBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Try CipherBot on Telegram">
+  </a>
+</p>
+
+> 🧩 **gitvibe** — your Git history, *Wrapped*-style · 👻 **PhantomBreach** — Hollywood-style hacking prank · 🟢 **HackerPanel** — cyberpunk joke panel · 🛰 **CipherBot** — Telegram cyber-toolkit (ciphers, hashes, QR, inline)
 
 ### 📊 GitHub in numbers
 
