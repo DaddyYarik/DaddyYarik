@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Tkinter-44A833?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -55,14 +58,22 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyYarik&repo=cipherbot&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=39FF7A&text_color=C9D1D9" alt="CipherBot">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/DaddyYarik/neodeck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyYarik&repo=neodeck&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=39FF7A&text_color=C9D1D9" alt="NeoDeck">
+  </a>
+</p>
 
 <p align="center">
+  <a href="https://daddyyarik.github.io/neodeck/">
+    <img src="https://img.shields.io/badge/NeoDeck_Live_Demo-00FF66?style=for-the-badge&logo=svelte&logoColor=black" alt="NeoDeck live demo">
+  </a>
   <a href="https://t.me/Toolkitpy_bot">
     <img src="https://img.shields.io/badge/Try_CipherBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Try CipherBot on Telegram">
   </a>
 </p>
 
-> 🧩 **gitvibe** — your Git history, *Wrapped*-style · 👻 **PhantomBreach** — Hollywood-style hacking prank · 🟢 **HackerPanel** — cyberpunk joke panel · 🛰 **CipherBot** — Telegram cyber-toolkit (ciphers, hashes, QR, inline)
+> 🧩 **gitvibe** — your Git history, *Wrapped*-style · 👻 **PhantomBreach** — Hollywood-style hacking prank · 🟢 **HackerPanel** — cyberpunk joke panel · 🛰 **CipherBot** — Telegram cyber-toolkit · 🖥 **NeoDeck** — self-hostable cyberpunk dashboard (Svelte)
 
 ### 📊 GitHub in numbers
 
